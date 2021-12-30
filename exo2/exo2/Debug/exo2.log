@@ -1,0 +1,6 @@
+﻿  exo2.cpp
+C:\Users\a\Documents\pooa\td1\exo2\exo2\exo2.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a\Documents\pooa\td1\exo2\exo2\exo2.cpp(36): message : see reference to function template instantiation 'std::string replace<std::string>(std::string)' being compiled
+C:\Users\a\Documents\pooa\td1\exo2\exo2\exo2.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a\Documents\pooa\td1\exo2\exo2\exo2.cpp(38): message : see reference to function template instantiation 'std::string capitalize<std::string>(std::string)' being compiled
+  exo2.vcxproj -> C:\Users\a\Documents\pooa\td1\exo2\Debug\exo2.exe
