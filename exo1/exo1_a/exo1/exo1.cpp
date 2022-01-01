@@ -27,7 +27,9 @@ int main()
     for (auto it : l)
         cout << it << "\t";
 
-    //sort(l.begin(), l.end());
+    cout << endl;
+
+    //list<string> ordered(l.begin(), l.end());
     l.sort();
 
     for (auto it : l)
